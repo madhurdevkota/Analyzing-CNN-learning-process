@@ -1,4 +1,4 @@
-# Analyzing-CNN-learning-process
+# Mastering Image Classification with Advanced CNN Techniques in Keras: A Deep Dive into Network Architectures and Performance Enhancement Strategies
 
 
 
